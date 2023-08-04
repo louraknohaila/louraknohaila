@@ -1,0 +1,6 @@
+-👋 Greetings! I'm @louraknohaila
+- 💻 Full Stack JavaScript Developer
+- 🎨 Crafting Responsive UI with a Creative Touch
+- 🚀 Proficient in JavaScript, CSS, Bootstrap, REAT.js, Vue.js, Angular, Node.js, and Express.js
+- 🌐 Building Web Apps and Sites with Integrated APIs .
+- ✉️ You can reach me at [louraknouhaila@gmail.com] 
