@@ -3,7 +3,7 @@
  ----------------------------------------------------------------
 
   
-💻 Développeur Full Stack JavaScript
+💻 Développeuse Full Stack JavaScript
 
 🎨 Passionné par la création d'interfaces réactives et esthétiques
 
