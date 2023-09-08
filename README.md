@@ -3,11 +3,11 @@
  ----------------------------------------------------------------
 
   
-💻 Développeuse Full Stack JavaScript
+💻 Développeuse Full Stack 
 
 🎨 Passionné par la création d'interfaces réactives et esthétiques
 
-🚀 Compétences : JavaScript, CSS, Bootstrap, REAT.js, Vue.js, Angular, Node.js, Express.js
+🚀 Compétences : JavaScript, CSS, Bootstrap, REAT.js, Vue.js, Angular, Node.js, Express.js ,Python ,django
 
 🌐 Expert en construction d'applications web avec intégration d'API
 
